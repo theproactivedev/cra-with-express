@@ -5,3 +5,5 @@ This is a repository for an article I wrote on what is the first step on buildin
 Read the article from here: https://theproactivedeveloper.wordpress.com/2019/04/09/set-up-create-react-app-with-express/
  
 Disclaimer: I'm not an expert yet. I just want to share the things I learned when I built my full stack JS apps.
+
+Link who helped me avoid turning my folder into submodule: https://stackoverflow.com/questions/47008290/how-to-make-outer-repository-and-embedded-repository-work-as-common-standalone-r
